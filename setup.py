@@ -8,5 +8,5 @@ setup(
     license='',
     author='Rae Hohle',
     author_email='bhillmann@outlook.com',
-    description='Example set up for python packaging'
+    description='Example set up for python'
 )
