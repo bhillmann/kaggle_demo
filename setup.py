@@ -6,7 +6,7 @@ setup(
     packages=['kaggle_demo'],
     url='',
     license='',
-    author='Benjamin Hillmann',
+    author='Rae Hohle',
     author_email='bhillmann@outlook.com',
     description='Example set up for python packaging'
 )
